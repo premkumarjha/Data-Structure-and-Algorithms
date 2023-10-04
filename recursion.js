@@ -1,10 +1,13 @@
 
 //recursion is just like loop like for loop or other loop; recursion ye kehta ki ak karke mere ko de do baad banki ham khud nikal lenge.....
 
-//******************************************************************************************************** */
+//*******************************STEP TO SOLVE RESURSION PROBLEM**************************************************** */
 
+//https://www.youtube.com/watch?v=Mr9MVpSoTGk
 
-//=>https://leetcode.com/tag/recursion/    =>leetecode recursion problems....
+//1.>find the base case/condition  //Every recursive function needs a termination point which is the smallest possible solution
+//2.>find the relation b/w the problems and subproblems;  //   Every recursive function reduces to smaller solutions of subproblems which can then be combined to form a solution.          
+//3.>generalise the relations. //Once we figure out the above two properties, then to implement a recursive function we simply call the function again according to the recursive relation until we reach the base case.
 
 
 //********************************************************************************************************** */
@@ -190,6 +193,8 @@ console.log('pp',output)
 
 
   
+
+
 
 //16.>===>https://www.youtube.com/watch?v=u-HgzgYe8KA
 
